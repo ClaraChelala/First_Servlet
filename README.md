@@ -13,6 +13,7 @@ PremierServlet.html se trouve dans C:\Program Files\apache-tomcat-9.0.58\webapps
 2- J'ai créé et compilé FirstServlet.java qui affiche Bonjour Clara Chelala
 
 3- J'ai ajusté web.xml en ajoutant 
+
   ![image](https://user-images.githubusercontent.com/83409958/153766435-d76eea56-5991-46a2-941b-0ca5c22c88df.png)
   
   
