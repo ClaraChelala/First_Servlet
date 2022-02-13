@@ -8,7 +8,7 @@ web.xml se trouve dans C:\Program Files\apache-tomcat-9.0.58\webapps\examples\WE
 PremierServlet.html se trouve dans C:\Program Files\apache-tomcat-9.0.58\webapps\examples
 
 
-1- J'ai installer le zip file apache tomcat 9.0.58 et ajuster les environment variables
+1- J'ai installé le zip file apache tomcat 9.0.58 et ajusté les environment variables
 
 2- J'ai créé et compilé FirstServlet.java qui affiche Bonjour Clara Chelala
 
