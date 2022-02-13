@@ -15,6 +15,7 @@ PremierServlet.html se trouve dans C:\Program Files\apache-tomcat-9.0.58\webapps
 3- J'ai ajusté web.xml en ajoutant 
   ![image](https://user-images.githubusercontent.com/83409958/153766435-d76eea56-5991-46a2-941b-0ca5c22c88df.png)
   
+  
  4- J'ai créé PremierServlet.html qui fait une référence à /FirstServlet
  
  5- J'ai démarré startup.bat qui se trouve dans C:\Program Files\apache-tomcat-9.0.58\bin
